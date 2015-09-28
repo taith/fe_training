@@ -24,6 +24,8 @@ Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
 ## サービス名：FE training system
 
+##　メンバー
+
 チームAi<br>
 20111389    ヴー・ドゥック・ダット  vuducdat<br>		
 20112166　　グェン。ヴァン。トゥ    tunv<br>
